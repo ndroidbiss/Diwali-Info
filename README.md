@@ -1,5 +1,5 @@
-   <!DOCTYPE html>
-   <html>
+<!DOCTYPE html>
+    <html>
     <head>
       <meta charset='utf-8'>
       <meta name='viewport' content='width=device-width'>
@@ -52,9 +52,7 @@
                     this page periodically for any changes. I will notify you of any changes by posting
                     the new Privacy Policy on this page. These changes are effective immediately after they are posted on
                     this page.
-                  </p> <p><strong>Contact Us</strong></p> <p>If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact
-                    me.
-                  </p> 
+                  </p> <p><strong>Contact Us</strong></p> <p>If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.</p> 
     </body>
     </html>
       
