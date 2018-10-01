@@ -1,4 +1,4 @@
-Privacy Policy
+<h2>Privacy Policy</h2>
 
 Nitin J. built the Diwali Info app as a Free app. This SERVICE is provided by Nitin J. at no cost and is intended for use as is.
 
