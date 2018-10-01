@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
     <html>
     <head>
@@ -54,8 +55,6 @@
                     this page.
                   </p> <p><strong>Contact Us</strong></p> <p>If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact
                     me.
-                  </p> <p>
-        </p>
+                  </p> <p></p>
     </body>
     </html>
-      
